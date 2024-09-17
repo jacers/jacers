@@ -1,4 +1,4 @@
-# [Jace Rausch](jacerausch@gmail.com) (he/him/his)
+# [Jace Rausch](mailto:jacerausch@gmail.com) (he/him/his)
 
 I am a junior pursuing a Bachelor of Science in Computer Science at the University of Oklahoma, graduating in May 2026.
 
