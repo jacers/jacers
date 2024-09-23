@@ -81,16 +81,16 @@ _Bounce Around Inflatables | Tea, South Dakota_
 
 **The Big Event**  
 _2023 - Present_  
-- Participated in a collaborative effort to plant trees, spread mulch, and clean up garbage around Norman
+Participated in a collaborative effort to plant trees, spread mulch, and clean up garbage around Norman
 
 **University of Oklahoma Food Pantry**  
 _2023 - Present_  
-- Collaborated with other volunteers by filling incoming orders, organizing the pantry, and sorting donated goods
+Collaborated with other volunteers by filling incoming orders, organizing the pantry, and sorting donated goods
 
 **Embrace Church**  
 _2022_  
-- As a Marketing Intern: created and distributed materials, attended team meetings, and led multiple projects
+As a Marketing Intern: created and distributed materials, attended team meetings, and led multiple projects
 
 **Special Olympics**  
 _2016 - 2022_  
-- Assisted in basketball practice, aiding disabled athletes in their athletic endeavors
+Assisted in basketball practice, aiding disabled athletes in their athletic endeavors
