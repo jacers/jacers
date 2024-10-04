@@ -2,6 +2,20 @@
 
 I am a junior pursuing a Bachelor of Science in Computer Science at the University of Oklahoma, graduating in May 2026.
 
+---
+
+## 📖 Table of Contents
+- [👨‍🎓 Education](#-education)
+- [👨‍💻 Skills](#-skills)
+- [🚀 Projects](#-projects)
+  - [Ongoing](#ongoing)
+  - [Finished](#finished)
+- [💼 Work Experience](#-work-experience)
+- [📚 Relevant Coursework](#-relevant-coursework)
+- [♻️ Volunteer Service](#-volunteer-service)
+
+---
+
 ## 👨‍🎓 Education
 
 **University of Oklahoma** | Norman, Oklahoma  
