@@ -49,22 +49,22 @@ Designed a desktop application using Java Swing to map and visualize GPS data fr
 **Peer Learning Assistant**  
 _University of Oklahoma | Norman, Oklahoma_  
 2024 - Present  
-- Support current students who are behind in mathematics through office hours and teaching in-class activities
+Support current students who are behind in mathematics through office hours and teaching in-class activities
 
 **Crimson Callers Supervisor**  
 _University of Oklahoma Foundation | Norman, Oklahoma_  
 2023 - Present  
-- Lead and manage shifts of 25 student callers, developing training programs and overseeing documentation
+Lead and manage shifts of 25 student callers, developing training programs and overseeing documentation
 
 **Aisles Online Associate**  
 _Hy-Vee Grocery Store | Sioux Falls, South Dakota_  
 2021 - 2022  
-- Assisted in a diverse team to shop, organize, load, and deliver groceries for online customers in a timely manner
+Assisted in a diverse team to shop, organize, load, and deliver groceries for online customers in a timely manner
 
 **Shop Leader**  
 _Bounce Around Inflatables | Tea, South Dakota_  
 2019 - 2021  
-- Managed and directed a team of eight people; scheduled, planned, and supervised events
+Managed and directed a team of eight people; scheduled, planned, and supervised events
 
 ---
 
