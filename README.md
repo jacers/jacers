@@ -91,17 +91,21 @@ Collaborated with others to implement complex software systems on a cloud-based 
 ## ♻️ Volunteer Service
 
 **The Big Event**  
+_Norman, Oklahoma_    
 _2023 - Present_  
 Participated in a collaborative effort to plant trees, spread mulch, and clean up garbage around Norman
 
 **University of Oklahoma Food Pantry**  
+_Norman, Oklahoma_    
 _2023 - Present_  
 Collaborated with other volunteers by filling incoming orders, organizing the pantry, and sorting donated goods
 
 **Embrace Church**  
+_Sioux Falls, South Dakota_    
 _2022_  
 As a Marketing Intern: created and distributed materials, attended team meetings, and led multiple projects
 
 **Special Olympics**  
+_Sioux Falls, South Dakota_    
 _2016 - 2022_  
 Assisted in basketball practice, aiding disabled athletes in their athletic endeavors
