@@ -42,15 +42,15 @@ Graduated: May 2022
 
 ### Ongoing
 
-**[Calendar Website](https://github.com/jacers/CalendarApplication)**  
-_2024_  
-Collaborated with a team of three to create a functional and customizable calendar with user-inputted events
-
 **Weather Application**  
 _2024_  
 Collaborated with a team of seven to create an AI-driven weather application
 
 ### Finished
+
+**[Calendar Website](https://github.com/jacers/CalendarApplication)**  
+_2024_  
+Collaborated with a team of three to create a functional and customizable calendar with user-inputted events
 
 **Mapping with Java GUI**  
 _2023_  
