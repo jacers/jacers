@@ -84,6 +84,10 @@ Managed and directed a team of eight people; scheduled, planned, and supervised 
 
 ## 📚 Relevant Coursework
 
+**Principles of Programming Languages**    
+Spring 2024    
+Collaborated with others to implement complex software systems on a cloud-based terminal running Bash
+
 **Programming Structures/Abstractions**    
 Spring 2023    
 Applied design and development principles to analyze and implement solutions to a variety of Java problems
@@ -95,10 +99,6 @@ Designed various data structures and associated algorithms in C++ while optimizi
 **Professional Development**    
 Fall 2023    
 Practiced professional development skills and collaborated on a semester-long research project in a group of four
-
-**Principles of Programming Languages**    
-Spring 2024    
-Collaborated with others to implement complex software systems on a cloud-based terminal running Bash
 
 ---
 
