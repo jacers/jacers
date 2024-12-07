@@ -5,6 +5,7 @@ I am a junior pursuing a Bachelor of Science in Computer Science at the Universi
 ---
 
 ## 📖 Table of Contents
+
 - [👨‍🎓 Education](#-education)
 - [👨‍💻 Skills](#-skills)
 - [🚀 Projects](#-projects)
@@ -21,17 +22,17 @@ I am a junior pursuing a Bachelor of Science in Computer Science at the Universi
 **University of Oklahoma** | Norman, Oklahoma  
 _Bachelor of Science in Computer Science_  
 Expected: May 2026  
-GPA: 3.55 
+GPA: 3.55
 
 **Tea Area High School** | Tea, South Dakota  
 _High School Education_  
-Graduated: May 2022  
+Graduated: May 2022
 
 ---
 
 ## 👨‍💻 Skills
 
-- Proficent Programming Languages: C, C++, CSS, Java, JavaScript, HTML, R
+- Proficent Programming Languages: C, C++, CSS, Java, JavaScript, HTML, [R](https://github.com/jacers/MATH4753RAUSCH)
 - Platforms & Tools: Google Cloud Platform, Git, Jira
 - Operating Systems: Linux, MacOS, Windows
 - Other: Debugging, DevOps, Unix Terminal, Problem Solving, Research, Positive Mindset, Adaptability
@@ -42,11 +43,15 @@ Graduated: May 2022
 
 ### Ongoing
 
-**Weather Application**  
+**Custom Game Engine**  
 _2024_  
-Collaborated with a team of seven to create an AI-driven weather application
+Designed a 2D game engine in C++ with features like collision detection, procedural generation, and AI-based systems
 
 ### Finished
+
+**[Weather Website](https://github.com/jakedearborn5/WeatherWise)**  
+_2024_  
+Collaborated with a team of seven to create an AI-driven weather application with an emphasis on mobile
 
 **[Calendar Website](https://github.com/jacers/CalendarApplication)**  
 _2024_  
@@ -84,20 +89,20 @@ Managed and directed a team of eight people; scheduled, planned, and supervised 
 
 ## 📚 Relevant Coursework
 
-**Principles of Programming Languages**    
-Spring 2024    
+**Principles of Programming Languages**  
+_Spring 2024_  
 Collaborated with others to implement complex software systems on a cloud-based terminal running Bash
 
-**Programming Structures/Abstractions**    
-Spring 2023    
+**Programming Structures/Abstractions**  
+_Spring 2023_  
 Applied design and development principles to analyze and implement solutions to a variety of Java problems
 
-**Data Structures**    
-Fall 2023    
+**Data Structures**  
+_Fall 2023_  
 Designed various data structures and associated algorithms in C++ while optimizing speed and space efficiency
 
-**Professional Development**    
-Fall 2023    
+**Professional Development**  
+_Fall 2023_  
 Practiced professional development skills and collaborated on a semester-long research project in a group of four
 
 ---
@@ -105,21 +110,21 @@ Practiced professional development skills and collaborated on a semester-long re
 ## ♻️ Volunteer Service
 
 **The Big Event**  
-_Norman, Oklahoma_    
+_Norman, Oklahoma_  
 _2023 - Present_  
 Participated in a collaborative effort to plant trees, spread mulch, and clean up garbage around Norman
 
 **University of Oklahoma Food Pantry**  
-_Norman, Oklahoma_    
+_Norman, Oklahoma_  
 _2023 - Present_  
 Collaborated with other volunteers by filling incoming orders, organizing the pantry, and sorting donated goods
 
 **Embrace Church**  
-_Sioux Falls, South Dakota_    
+_Sioux Falls, South Dakota_  
 _2022_  
 As a Marketing Intern: created and distributed materials, attended team meetings, and led multiple projects
 
 **Special Olympics**  
-_Sioux Falls, South Dakota_    
+_Sioux Falls, South Dakota_  
 _2016 - 2022_  
 Assisted in basketball practice, aiding disabled athletes in their athletic endeavors
