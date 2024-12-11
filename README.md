@@ -13,7 +13,7 @@ I am a junior pursuing a Bachelor of Science in Computer Science at the Universi
   - [Finished](#finished)
 - [💼 Work Experience](#-work-experience)
 - [📚 Relevant Coursework](#-relevant-coursework)
-- [♻️ Volunteer Service](#-volunteer-service)
+- [♻️ Volunteer Service](#%EF%B8%8F-volunteer-service)
 
 ---
 
@@ -22,11 +22,12 @@ I am a junior pursuing a Bachelor of Science in Computer Science at the Universi
 **University of Oklahoma** | Norman, Oklahoma  
 _Bachelor of Science in Computer Science_  
 Expected: May 2026  
-GPA: 3.55
+GPA: 3.55 / 4.0
 
 **Tea Area High School** | Tea, South Dakota  
 _High School Education_  
-Graduated: May 2022
+Graduated: May 2022  
+GPA: 3.725 / 4.0
 
 ---
 
@@ -49,13 +50,13 @@ Designed a 2D game engine in C++ with features like collision detection, procedu
 
 ### Finished
 
-**[Weather Website](https://github.com/jakedearborn5/WeatherWise)**  
+**[AI Weather Application](https://github.com/jakedearborn5/WeatherWise)**  
 _2024_  
-Collaborated with a team of seven to create an AI-driven weather application with an emphasis on mobile
+Worked with a team of seven to create a web application with an emphasis on APIs, an AI chatbot, and mobile
 
 **[Calendar Website](https://github.com/jacers/CalendarApplication)**  
 _2024_  
-Collaborated with a team of three to create a functional and customizable calendar with user-inputted events
+Teamed up with a team of three to create a functional and customizable calendar with user-inputted events
 
 **Mapping with Java GUI**  
 _2023_  
@@ -89,13 +90,13 @@ Managed and directed a team of eight people; scheduled, planned, and supervised 
 
 ## 📚 Relevant Coursework
 
+**Software Engineering**
+_Fall 2024_
+Partnered in a team of seven to develop a software using DevOps practices, microservices, and testing skills
+
 **Principles of Programming Languages**  
 _Spring 2024_  
-Collaborated with others to implement complex software systems on a cloud-based terminal running Bash
-
-**Programming Structures/Abstractions**  
-_Spring 2023_  
-Applied design and development principles to analyze and implement solutions to a variety of Java problems
+Coordinated with others to implement complex software systems on cloud-based Linux machines running Bash 
 
 **Data Structures**  
 _Fall 2023_  
@@ -103,7 +104,11 @@ Designed various data structures and associated algorithms in C++ while optimizi
 
 **Professional Development**  
 _Fall 2023_  
-Practiced professional development skills and collaborated on a semester-long research project in a group of four
+Practiced professional development skills and collaborated on a semester-long research project with four others
+
+**Programming Structures/Abstractions**  
+_Spring 2023_  
+Applied design and development principles to analyze and implement solutions to a variety of Java problems
 
 ---
 
@@ -117,7 +122,7 @@ Participated in a collaborative effort to plant trees, spread mulch, and clean u
 **University of Oklahoma Food Pantry**  
 _Norman, Oklahoma_  
 _2023 - Present_  
-Collaborated with other volunteers by filling incoming orders, organizing the pantry, and sorting donated goods
+Assisted with other volunteers by filling incoming orders, organizing the pantry, and sorting donated goods
 
 **Embrace Church**  
 _Sioux Falls, South Dakota_  
