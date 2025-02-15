@@ -6,14 +6,16 @@ I am a junior pursuing a Bachelor of Science in Computer Science at the Universi
 
 ## 📖 Table of Contents
 
-- [👨‍🎓 Education](#-education)
-- [👨‍💻 Skills](#-skills)
-- [🚀 Projects](#-projects)
-  - [Ongoing](#ongoing)
-  - [Finished](#finished)
-- [💼 Work Experience](#-work-experience)
-- [📚 Relevant Coursework](#-relevant-coursework)
-- [♻️ Volunteer Service](#%EF%B8%8F-volunteer-service)
+- [Jace Rausch (he/him/his)](#jace-rausch-hehimhis)
+  - [📖 Table of Contents](#-table-of-contents)
+  - [👨‍🎓 Education](#-education)
+  - [👨‍💻 Skills](#-skills)
+  - [🚀 Projects](#-projects)
+    - [Ongoing](#ongoing)
+    - [Finished](#finished)
+  - [💼 Work Experience](#-work-experience)
+  - [📚 Relevant Coursework](#-relevant-coursework)
+  - [♻️ Volunteer Service](#️-volunteer-service)
 
 ---
 
