@@ -71,10 +71,10 @@ _University of Oklahoma | Norman, Oklahoma_
 _2025 - Present_  
 Assist the SCADA team by creating software in Excel to convert pipeline data to be functional with other software
 
-**Peer Learning Assistant**  
+**Teacher’s Assistant**  
 _University of Oklahoma | Norman, Oklahoma_  
 _2024 - Present_  
-Support current students who are behind in mathematics through office hours and teaching in-class activities
+Support current freshman and sophomore students through oﬃce hours and teaching in-class activities
 
 **Crimson Callers Supervisor**  
 _University of Oklahoma Foundation | Norman, Oklahoma_  
