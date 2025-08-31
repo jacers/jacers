@@ -45,7 +45,7 @@ GPA: 3.725 / 4.0
 ### Ongoing
 
 **Custom Game Engine**  
-_2024_  
+_2025_  
 Designed a 2D game engine in C++ with features like collision detection, procedural generation, and AI-based systems
 
 ### Finished
@@ -66,6 +66,11 @@ Designed a desktop application using Java Swing to map and visualize GPS data fr
 
 ## 💼 Work Experience
 
+**SCADA Intern**  
+_University of Oklahoma | Norman, Oklahoma_  
+_2025 - Present_  
+Assist the SCADA team by creating software in Excel to convert pipeline data to be functional with other software
+
 **Peer Learning Assistant**  
 _University of Oklahoma | Norman, Oklahoma_  
 _2024 - Present_  
@@ -75,11 +80,6 @@ Support current students who are behind in mathematics through office hours and 
 _University of Oklahoma Foundation | Norman, Oklahoma_  
 _2023 - Present_  
 Lead and manage shifts of 25 student callers, developing training programs and overseeing documentation
-
-**Aisles Online Associate**  
-_Hy-Vee Grocery Store | Sioux Falls, South Dakota_  
-_2021 - 2022_  
-Assisted in a diverse team to shop, organize, load, and deliver groceries for online customers in a timely manner
 
 **Shop Leader**  
 _Bounce Around Inflatables | Tea, South Dakota_  
