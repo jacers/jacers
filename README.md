@@ -45,8 +45,8 @@ GPA: 3.725 / 4.0
 ### Ongoing
 
 **Custom Game Engine**  
-_2025_  
-Designed a 2D game engine in C++ with features like collision detection, procedural generation, and AI-based systems
+_2025-2026_  
+Designed a 2D game engine in Lua with features like collision detection, procedural generation, and AI-based systems
 
 ### Finished
 
