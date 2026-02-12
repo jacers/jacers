@@ -44,7 +44,7 @@ GPA: 3.725 / 4.0
 
 ### Ongoing
 
-**Custom Game Engine**  
+[**Custom Game Engine**](https://github.com/jacers/2DPlatformerEngine)  
 _2025-2026_  
 Designed a 2D game engine in Lua with features like collision detection, procedural generation, and AI-based systems
 
