@@ -81,11 +81,6 @@ _University of Oklahoma Foundation | Norman, Oklahoma_
 _2023 - Present_  
 Lead and manage shifts of 25 student callers, developing training programs and overseeing documentation
 
-**Shop Leader**  
-_Bounce Around Inflatables | Tea, South Dakota_  
-_2019 - 2021_  
-Managed and directed a team of eight people; scheduled, planned, and supervised events
-
 ---
 
 ## 📚 Relevant Coursework
