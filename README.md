@@ -67,7 +67,7 @@ Designed a desktop application using Java Swing to map and visualize GPS data fr
 ## 💼 Work Experience
 
 **SCADA Intern**  
-_University of Oklahoma | Norman, Oklahoma_  
+_Atmos Energy | Dallas, Texas_  
 _2025 - Present_  
 Assist the SCADA team by creating software in Excel to convert pipeline data to be functional with other software
 
