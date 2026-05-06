@@ -73,12 +73,12 @@ Assist the SCADA team by creating software in Excel to convert pipeline data to 
 
 **Teacher’s Assistant**  
 _University of Oklahoma | Norman, Oklahoma_  
-_2024 - Present_  
+_2024 - 2026_  
 Support current freshman and sophomore students through oﬃce hours and teaching in-class activities
 
 **Crimson Callers Supervisor**  
 _University of Oklahoma Foundation | Norman, Oklahoma_  
-_2023 - Present_  
+_2023 - 2025_  
 Lead and manage shifts of 25 student callers, developing training programs and overseeing documentation
 
 ---
