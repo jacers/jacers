@@ -85,8 +85,8 @@ Lead and manage shifts of 25 student callers, developing training programs and o
 
 ## 📚 Relevant Coursework
 
-**Software Engineering**
-_Fall 2024_
+**Software Engineering**  
+_Fall 2024_  
 Partnered in a team of seven to develop a software using DevOps practices, microservices, and testing skills
 
 **Principles of Programming Languages**  
