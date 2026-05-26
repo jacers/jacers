@@ -1,6 +1,6 @@
 # [Jace Rausch](mailto:jace@rausch.bio) (he/him/his)
 
-I am a junior pursuing a Bachelor of Science in Computer Science at the University of Oklahoma, graduating in May 2026. 
+I am a junior pursuing a Bachelor of Science in Computer Science at the University of Oklahoma, graduating in December 2026. 
 
 ---
 
