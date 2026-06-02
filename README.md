@@ -21,7 +21,7 @@ I am a junior pursuing a Bachelor of Science in Computer Science at the Universi
 
 **University of Oklahoma** | Norman, Oklahoma  
 _Bachelor of Science in Computer Science_  
-Expected: May 2026  
+Expected: December 2026  
 GPA: 3.55 / 4.0
 
 **Tea Area High School** | Tea, South Dakota  
