@@ -1,19 +1,21 @@
 # [Jace Rausch](mailto:jace@rausch.bio) (he/him/his)
 
-I am a junior pursuing a Bachelor of Science in Computer Science at the University of Oklahoma, graduating in December 2026. 
+I am a junior pursuing a Bachelor of Science in Computer Science at the University of Oklahoma, graduating in December 2026.
 
 ---
 
 ## 📖 Table of Contents
 
-- [👨‍🎓 Education](#-education)
-- [👨‍💻 Skills](#-skills)
-- [🚀 Projects](#-projects)
-  - [Ongoing](#ongoing)
-  - [Finished](#finished)
-- [💼 Work Experience](#-work-experience)
-- [📚 Relevant Coursework](#-relevant-coursework)
-- [♻️ Volunteer Service](#%EF%B8%8F-volunteer-service)
+- [Jace Rausch (he/him/his)](#jace-rausch-hehimhis)
+  - [📖 Table of Contents](#-table-of-contents)
+  - [👨‍🎓 Education](#-education)
+  - [👨‍💻 Skills](#-skills)
+  - [🚀 Projects](#-projects)
+    - [Ongoing](#ongoing)
+    - [Finished](#finished)
+  - [💼 Work Experience](#-work-experience)
+  - [📚 Relevant Coursework](#-relevant-coursework)
+  - [♻️ Volunteer Service](#️-volunteer-service)
 
 ---
 
@@ -44,19 +46,23 @@ GPA: 3.725 / 4.0
 
 ### Ongoing
 
+[**Wallsocket Companion**](https://github.com/jacers/wallsocket-companion)  
+_2026_  
+Deployed a multimedia website featuring APIs, interactive elements, and scalable content management systems
+
 [**Custom Game Engine**](https://github.com/jacers/2DPlatformerEngine)  
 _2025-2026_  
-Designed a 2D game engine in Lua with features like collision detection, procedural generation, and AI-based systems
+Designed modular game engine systems for animations, physics, AI behavior, and procedural generation
 
 ### Finished
 
 **[AI Weather Application](https://github.com/jakedearborn5/WeatherWise)**  
 _2024_  
-Worked with a team of seven to create a web application with an emphasis on APIs, an AI chatbot, and mobile
+Collaborated on a team-developed website that integrated real-time data, an AI chatbot, and mobile-based UI
 
 **[Calendar Website](https://github.com/jacers/CalendarApplication)**  
 _2024_  
-Teamed up with a team of three to create a functional and customizable calendar with user-inputted events
+Built a collaborative web-based scheduling app that enabled users to create, manage, and customize events
 
 **Mapping with Java GUI**  
 _2023_  
@@ -69,41 +75,57 @@ Designed a desktop application using Java Swing to map and visualize GPS data fr
 **SCADA Intern**  
 _Atmos Energy | Dallas, Texas_  
 _2025 - Present_  
-Assist the SCADA team by creating software in Excel to convert pipeline data to be functional with other software
+Developed internal tools, dashboards, and web applications that transformed data into actionable insights
 
 **Teacher’s Assistant**  
 _University of Oklahoma | Norman, Oklahoma_  
 _2024 - 2026_  
-Support current freshman and sophomore students through oﬃce hours and teaching in-class activities
+Mentored engineering students via problem solving during office hours and supported classroom instruction
 
 **Crimson Callers Supervisor**  
 _University of Oklahoma Foundation | Norman, Oklahoma_  
 _2023 - 2025_  
-Lead and manage shifts of 25 student callers, developing training programs and overseeing documentation
+Led and managed shifts of 25 student callers while managing operations, fundraising goals, and onboarding
 
 ---
 
 ## 📚 Relevant Coursework
 
+**Introduction to Robotics**  
+_Spring 2026_  
+Applied ROS2 development principles to robotics systems involving simulation, navigation, and autonomy
+
+**Database Management Systems**  
+_Fall 2025_  
+Designed database solutions via SQL, applying normalization principles, security, and transaction management
+
+**Leadership Management for Engineers**  
+_Fall 2025_  
+Developed leadership and decision-making skills through analysis of case studies and management practices
+
+**Artificial Intellegence**  
+_Fall 2025_  
+Implemented foundational AI search algorithms, evaluating the solution quality, complexity, and decision-making
+
 **Software Engineering**  
 _Fall 2024_  
-Partnered in a team of seven to develop a software using DevOps practices, microservices, and testing skills
+Applied modern software design practices like DevOps, version control, and microservice-based development
 
 **Principles of Programming Languages**  
 _Spring 2024_  
-Coordinated with others to implement complex software systems on cloud-based Linux machines running Bash 
+Explored programming language design and execution through software implementation in Linux environments
 
 **Data Structures**  
 _Fall 2023_  
-Designed various data structures and associated algorithms in C++ while optimizing speed and space efficiency
+Implemented and optimized data structures and algorithms in C++, focusing on performance and memory usage
 
 **Professional Development**  
 _Fall 2023_  
-Practiced professional development skills and collaborated on a semester-long research project with four others
+Practiced professional communication and teamwork through a semester-long research project with four others
 
 **Programming Structures/Abstractions**  
 _Spring 2023_  
-Applied design and development principles to analyze and implement solutions to a variety of Java problems
+Developed object-oriented Java apps while applying principles of abstraction, modularity, and maintainability
 
 ---
 
