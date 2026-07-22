@@ -1,4 +1,4 @@
-# [Jace Rausch](mailto:jace@rausch.bio) (he/him/his)
+# [Jace Rausch](mailto:jace@rausch.bio)
 
 I am a junior pursuing a Bachelor of Science in Computer Science at the University of Oklahoma, graduating in December 2026.
 
@@ -6,7 +6,7 @@ I am a junior pursuing a Bachelor of Science in Computer Science at the Universi
 
 ## 📖 Table of Contents
 
-- [Jace Rausch (he/him/his)](#jace-rausch-hehimhis)
+- [Jace Rausch](#jace-rausch)
   - [📖 Table of Contents](#-table-of-contents)
   - [👨‍🎓 Education](#-education)
   - [👨‍💻 Skills](#-skills)
@@ -35,10 +35,38 @@ GPA: 3.725 / 4.0
 
 ## 👨‍💻 Skills
 
-- Proficent Programming Languages: C, C++, CSS, Java, JavaScript, HTML, [R](https://github.com/jacers/MATH4753RAUSCH)
-- Platforms & Tools: Google Cloud Platform, Git, Jira
-- Operating Systems: Linux, MacOS, Windows
-- Other: Debugging, DevOps, Unix Terminal, Problem Solving, Research, Positive Mindset, Adaptability
+**Backend & Data**  
+CSV Parsing, Data Modeling, Data Transformation, Data Validation, ETL Workflows, Flask, Relational Databases, PostgreSQL, RESTful APIs, SQLAlchemy, SQLite, SQL Querying
+
+**Leadership & Management**  
+Classroom Support, Coaching and Mentoring, Cross-Functional Collaboration, Donor Engagement, Event Logistics, Hiring, Onboarding, Peer Mentorship Staff Supervision, Staff Training
+
+**Network**  
+Alerts Configuration, Asset Management Systems, Log Analysis, Netflow Traffic Analyzer, Network Dashboards, Network Device Discovery, Network Monitoring, Network Performance Management, Server & Application Monitoring
+
+**Operating Systems**  
+Linux, MacOS, Windows
+
+**Programming Languages & Frameworks**  
+C, C++, C#, CSS, HTML, Java, JavaScript, Lua, Next.js, Python, [R](https://github.com/jacers/MATH4753RAUSCH), React, ROS2, SQL, Visual Basic for Applications
+
+**Platforms & Tools**  
+Bash, DevOps, Google Cloud Platform, Git, GitHub, GitLab, Flask, Jira, Microsoft Excel Automation, Microsoft Office, Overleaf, VirtualBox
+
+**Robotics & AI**  
+Collision Detection, Deliberative Architecture, Gazebo Simulator, Hybrid Architecture, Graph Traversal, Procedural Generation, Reactive Architecture, ROS2, Search Algorithms, State Management
+
+**Soft Skills**  
+Accountability, Active Listening, Adaptability, Analytical Skills, Communication, Critical Thinking, Decision Making, Dependability, Emotional Intelligence, Fast Learning, Goal Setting, Positive Mindset, Project Management, Team Building, Time-Sensitive Response, Troubleshooting, Work Ethic
+
+**Software Engineering**  
+Agile Development, Code Reviews, DevOps Practices, Microservice Architecture, Version Control
+
+**Web Development**  
+Authentication, Backend Development, Content Management Systems, Dashboard Development, Frontend Development, Full-Stack Development, Responsive Web Design, REST APIs, Web Application Deployment
+
+**Other Hard Skills**  
+Command-Line Development, Hiring, Object-Oriented Design, Remote Development, Research, Testing and Debugging, Technical Documentation, VoIP Management
 
 ---
 
